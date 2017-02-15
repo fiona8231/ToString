@@ -1,6 +1,4 @@
-/**
- * Created by xuyue on 14/02/17.
- */
+
 public class Profile {
     private String name;
     private  Date  birthday;
